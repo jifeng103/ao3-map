@@ -16,9 +16,11 @@
 
 ## 添加QQ频道
 
-欢迎加入我们的QQ频道，以便获得更多的帮助和交流：[加入QQ频道](https://pd.qq.com/s/8ytm1sth5)
+欢迎加入我们的QQ频道或者QQ群，以便获得更多的帮助和交流：[加入QQ频道](https://pd.qq.com/s/8ytm1sth5)
+[加入QQ群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=5zFgjgzS-kt-9hN4_A8PFy0_q-1zB7xR&authKey=k4LEy%2FFXOtwaEp5WVcMJq3%2FcVJBnAlSzGaY%2B9mqJqgUnqasovZ2lyjspsUIO8OEn&noverify=0&group_code=984098141)
 
 **提示:**
 
 * 如果其中一个镜像不可用，请尝试使用另一个镜像。
-* 欢迎加入我们的 QQ 频道，以便获得更多的帮助和交流： [加入QQ频道](https://pd.qq.com/s/8ytm1sth5)
+* 欢迎加入我们的QQ频道或者QQ群，以便获得更多的帮助和交流：[加入QQ频道](https://pd.qq.com/s/8ytm1sth5)
+[加入QQ群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=5zFgjgzS-kt-9hN4_A8PFy0_q-1zB7xR&authKey=k4LEy%2FFXOtwaEp5WVcMJq3%2FcVJBnAlSzGaY%2B9mqJqgUnqasovZ2lyjspsUIO8OEn&noverify=0&group_code=984098141)
