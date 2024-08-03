@@ -10,8 +10,8 @@
 
 ## 镜像链接列表
 
-* [镜像 1](https://ao3rc.andbru123.us.kg/)
-* [镜像 2](https://ao3sg.andbru123.us.kg/)
+* [镜像 1](https://ao3sg.andbru123.us.kg/)
+* [镜像 2](https://ao3rc.andbru123.us.kg/)
 * ~~[失效镜像 1](https://ao3rc.andbru123.tk/)~~
 
 ## 镜像发布页列表
