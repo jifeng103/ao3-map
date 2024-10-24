@@ -1,21 +1,30 @@
 # 镜像发布页
 
-## 日志更新
+<details>
+<summary>日志更新</summary>
+
 * 9月3日 ao3原站服务器开启了五秒盾，需要用户进行人机验证才能正常访问，请等待ao3维护好再访问
 * 9月4日 原站关闭了五秒盾，镜像已恢复使用
+
+</details>
+
 ## 关于项目
 
-此项目的镜像1部署在服务器上，目前无翻译(懒的原因💧)，镜像2部署在免费的PaaS服务上，目前有翻译(翻到最底下有一个下拉框，如果没有可能需要等待网页加载完，选择简体中文)，可能在晚高峰时遇到无法访问的情况。当前两个镜像都无注册和登录功能。如需要登录用户才可用的功能请访问原站。
+此项目的镜像1部署在服务器上，目前无翻译(推荐使用彩云小译进行翻译)，镜像2部署在免费的PaaS服务上，目前有翻译(翻到最底下有一个下拉框，如果没有可能需要等待网页加载完，选择简体中文)，可能在晚高峰时遇到无法访问的情况。当前两个镜像都无注册和登录功能。如需要登录用户才可用的功能请访问原站。
 
 ### 关于本页
 
 这是镜像项目的发布页，推荐截屏或收藏，以便镜像链接失效或当前网络不可访问时切换到可用镜像。
 
-## 镜像链接列表
-#### 哪个可用用哪个，"推荐！"的两个分流域名将于10月左右过期
+<details>
+<summary>镜像链接列表</summary>
 
-***
+#### 哪个可用用哪个！
 
+* <span style="font-size: 16px; color: red;">[点击访问 镜像 1分流 推荐](https://ao3sg.hyf9588.tech/)</span>
+链接为：<span style="font-size: 14px; color: blue;">https://ao3sg.hyf9588.tech</span>
+* <span style="font-size: 16px; color: red;">[点击访问 镜像 2分流 推荐](https://ao3rc.hyf9588.tech/)</span>
+链接为：<span style="font-size: 14px; color: blue;">https://ao3rc.hyf9588.tech</span>
 * [点击访问 镜像 1](https://ao3sg.andbru123.us.kg/)
 链接为：https://ao3sg.andbru123.us.kg
 * [点击访问 镜像 2](https://ao3rc.andbru123.us.kg/)
@@ -24,17 +33,14 @@
 链接为：https://ao3sg.andbru123.cc.ua
 * [点击访问 镜像 2分流](https://ao3rc.andbru123.cc.ua/)
 链接为：https://ao3rc.andbru123.cc.ua
-* [点击访问 镜像 1分流 推荐！](https://ao3sg.hyf9588.me/)
-链接为：https://ao3sg.hyf9588.me
-* [点击访问 镜像 2分流 推荐！](https://ao3rc.hyf9588.me/)
-链接为：https://ao3rc.hyf9588.me
-* [点击访问 镜像 1分流 推荐](https://ao3sg.hyf9588.tech/)
-链接为：https://ao3sg.hyf9588.tech
-* [点击访问 镜像 2分流 推荐](https://ao3rc.hyf9588.tech/)
-链接为：https://ao3rc.hyf9588.tech
 * ~~[失效镜像 1](https://ao3rc.andbru123.tk/)~~
+* ~~[失效镜像 2](https://ao3rc.hyf9588.me/)~~
+* ~~[失效镜像 3](https://ao3sg.hyf9588.me/)~~
 
-## 镜像发布页列表
+</details>
+
+<details>
+<summary>镜像发布页列表</summary>
 
 * [点击访问 发布页 1](https://nav.andbru123.us.kg/)
 链接为：https://nav.andbru123.us.kg
@@ -42,15 +48,20 @@
 链接为：https://nav.andbru123.cc.ua
 * [点击访问 发布页 3](https://nav.hyf9588.tech/)
 链接为：https://nav.hyf9588.tech
-* [点击访问 发布页 4](https://nav.hyf9588.me/)
+* ~~[失效发布页 1](https://nav.hyf9588.me/)~~
 链接为：https://nav.hyf9588.me
 
+</details>
 
-## 网页监控
+<details>
+<summary>网页监控</summary>
+
 * [点击访问 镜像、原站、以及发布页状态](https://uptime.ttwglwie.cc.ua/)
 链接为：https://uptime.ttwglwie.cc.ua
 
+</details>
+
 ## 添加QQ群或QQ频道
 
-欢迎加入我们的QQ频道或者QQ群，以便获得更多的帮助和交流：[加入QQ频道](https://pd.qq.com/s/8ytm1sth5)
+欢迎加入我们的QQ频道或者QQ群，以便获得更多的帮助和交流：[加入QQ频道](https://pd.qq.com/s/8ytm1sth5)  
 [加入QQ群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=5zFgjgzS-kt-9hN4_A8PFy0_q-1zB7xR&authKey=k4LEy%2FFXOtwaEp5WVcMJq3%2FcVJBnAlSzGaY%2B9mqJqgUnqasovZ2lyjspsUIO8OEn&noverify=0&group_code=984098141)
